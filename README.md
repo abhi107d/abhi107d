@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 -🌱 I'm passionate about coding, constantly learning new things, and currently
-
     diving into the realms of AI and ML. But really, I love all things programming!
     
 -🔭 I’m currently working on sharpening my skills and exploring various projects.
